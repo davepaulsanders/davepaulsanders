@@ -2,7 +2,7 @@
 
 I'm a full stack web developer who discovered coding after a skateboarding injury temporarily halted my music career.
 
- After I recovered, I continued coding and it became an important part of my life.
+ After I recovered, I continued coding and earned a certificate in Full Stack Web Development from George Washington University.
  
  I am experienced with the full stack, including Javascript, React, React-Redux, Node.js, and Express.
 
