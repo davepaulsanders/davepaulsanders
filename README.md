@@ -1,4 +1,4 @@
-<div style="display: flex, justify-content: center, width: 100% text-align: center">
+<div align="center">
 
 Hi there 👋
 
