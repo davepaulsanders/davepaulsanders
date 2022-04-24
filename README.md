@@ -13,8 +13,8 @@ I'm a full stack web developer who discovered coding after a skateboarding injur
 - ⚡ Fun fact: I play guitar, mandolin, banjo, lap steel, and ukulele!
 
 <h2 align="center">Languages and Technologies</h2>
-  <div style="display: flex, justify-content: center, align-items: center, flex-direction: row, width: 500px" align="center">
-     <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" style="width: 50px"/>
+  <div style="display: flex, justify-content: center, align-items: center, flex-direction: row, width: 500px, flex-wrap: no-wrap"align="center">
+     <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"/>
      <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"/>
      <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg"/>
      <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg"/>
