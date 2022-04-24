@@ -1,4 +1,4 @@
-<div style="display: flex, justify-content: center, width: 100%">
+<div style="display: flex, justify-content: center, width: 100% text-align: center">
 ### Hi there 👋
 
 I'm a full stack web developer who discovered coding after a skateboarding injury temporarily halted my music career.
@@ -20,7 +20,7 @@ I'm a full stack web developer who discovered coding after a skateboarding injur
      <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" style="width: 50px"/>
      <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" style="width: 50px"/>
      <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" style="width: 50px"/>
-     <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/tailwindcss/tailwindcss-icon.svg" style="width: 50px"/>
+     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" style="width: 50px"/>
      <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" style="width: 50px"/>
    
   </div>
