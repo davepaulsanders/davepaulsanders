@@ -19,6 +19,7 @@ I'm a full stack web developer who discovered coding after a skateboarding injur
   <div style="display: flex, justify-content: center, align-items: center">
      <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" style="width: 50px"/>
      <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" style="width: 50px"/>
+     <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" style="width: 50px"/>
      <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" style="width: 50px"/>
      <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" style="width: 50px"/>
      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" style="width: 50px"/>
