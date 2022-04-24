@@ -1,5 +1,6 @@
 <div style="display: flex, justify-content: center, width: 100% text-align: center">
-### Hi there 👋
+
+Hi there 👋
 
 I'm a full stack web developer who discovered coding after a skateboarding injury temporarily halted my music career.
 
