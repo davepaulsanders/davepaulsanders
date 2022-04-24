@@ -14,7 +14,7 @@ I'm a full stack web developer who discovered coding after a skateboarding injur
 
 <h2 align="center">Languages and Technologies</h2>
   <div align="center">
-     <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" align="" style="width: 50px, height: 50px"/>
+     <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width: "50px" height: "50px"/>
      <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width: "50px" height: "50px"/>
      <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" width: "50px" height: "50px"/>
      <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" width: "50px" height: "50px"/>
