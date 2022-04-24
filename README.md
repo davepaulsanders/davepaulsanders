@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**davepaulsanders/davepaulsanders** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full stack web developer who discovered coding after a skateboarding injury temporarily halted my music career.
 
-Here are some ideas to get you started:
+ After I recovered, I continued coding and it became an important part of my life.
+ 
+ I am experienced with the full stack, including Javascript, React, React-Redux, Node.js, and Express.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Setlists, a program to help musicians organize performances
+- 🌱 I’m currently learning Typescript
+- 💬 Ask me about collaborating on projects!
+- 📫 How to reach me: davepaulsanders@gmail.com
+- ⚡ Fun fact: I play guitar, mandolin, banjo, lap steel, and ukulele!
+
+## Languages and Technologies
+
+![](https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg)
