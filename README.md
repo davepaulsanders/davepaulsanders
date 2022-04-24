@@ -12,9 +12,9 @@ I'm a full stack web developer who discovered coding after a skateboarding injur
 - 📫 How to reach me: davepaulsanders@gmail.com
 - ⚡ Fun fact: I play guitar, mandolin, banjo, lap steel, and ukulele!
 
-<div align="center">
+<h2 align="center">
 ## Languages and Technologies
-</div>
+</h2>
   <div style="display: flex, justify-content: center, align-items: center" align="center">
      <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" style="width: 50px"/>
      <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" style="width: 50px"/>
