@@ -21,7 +21,7 @@ I am experienced with the full stack, including Javascript, React, React-Redux, 
      <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="40"/>
      <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" width="40"/>
      <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" width="40"/>
-     <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="40"/>
+     <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="50"/>
      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="40"/>
      <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="40"/>
    
