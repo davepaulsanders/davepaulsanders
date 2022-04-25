@@ -4,9 +4,9 @@ I'm a full stack web developer who discovered coding after a skateboarding injur
 
 After I recovered, I continued coding and earned a certificate in Full Stack Web Development from George Washington University.
 
-I am experienced with the full stack, including Javascript, React, React-Redux, Node.js, and Express.
+I am experienced with the full stack, including Javascript, React, Redux, Node.js, Express, MongoDB, and MYSQL. 
 
-- 🔭 I’m currently working on Setlists, a program to help musicians organize performances
+- 🔭 I’m currently working on Setlists, an app to help musicians organize performances
 - 🌱 I’m currently learning Typescript
 - 💬 Ask me about collaborating on projects!
 - 📫 How to reach me: davepaulsanders@gmail.com
@@ -24,5 +24,5 @@ I am experienced with the full stack, including Javascript, React, React-Redux, 
      <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="50"/>
      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="40"/>
      <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="40"/>
-   
+
   </div>
