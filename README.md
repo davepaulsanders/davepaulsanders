@@ -17,12 +17,12 @@ I am experienced with the full stack, including Javascript, React, React-Redux, 
 <h2 align="center">Languages and Technologies</h2>
 <br>
   <div align="center">
-     <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" style="width: 40px; height: 40px;"/>
-     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" style="width: 40px; height: 40px"/>
-     <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" style="width: 50p; height: 40px"/>
-     <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" style="width: 40px; height: 40px"/>
-     <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" style="width: 40px; height: 40px"/>
-     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" style="width: 40px; height: 40px"/>
-     <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg"style="width: 40px; height: 40px"/>
+     <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="40"/>
+     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="40"/>
+     <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" width="40"/>
+     <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" width="40"/>
+     <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="40"/>
+     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="40"/>
+     <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="40"/>
    
   </div>
