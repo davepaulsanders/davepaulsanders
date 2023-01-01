@@ -6,10 +6,12 @@ After I recovered, I continued coding and earned a certificate in Full Stack Web
 
 I am experienced with the full stack, including Javascript, React, Redux, Node.js, Express, MongoDB, and MYSQL. 
 
-- 🔭 I’m currently learning Java!
+- 🔭 I’m currently studying for the AWS DVA-C01!
 - 💬 Ask me about collaborating on projects!
 - 📫 How to reach me: davepaulsanders@gmail.com
 - ⚡ Fun fact: I play guitar, mandolin, banjo, lap steel, and ukulele!
+- ⚡ Fun fact: I love writing shell scripts to automate boring computer tasks
+
 
 <br>
 
