@@ -9,8 +9,8 @@ I am experienced with the full stack, including Javascript, React, Redux, Node.j
 - 🔭 I’m currently studying for the AWS DVA-C01!
 - 💬 Ask me about collaborating on projects!
 - 📫 How to reach me: davepaulsanders@gmail.com
-- ⚡ Fun fact: I play guitar, mandolin, banjo, lap steel, and ukulele!
-- ⚡ Fun fact: I love writing shell scripts to automate boring computer tasks
+- ⚡ I play guitar, mandolin, banjo, lap steel, and ukulele!
+- ⚡ I love writing shell scripts to automate boring computer tasks
 
 
 <br>
