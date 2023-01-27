@@ -4,7 +4,7 @@ I'm a full stack web developer who discovered coding after a skateboarding injur
 
 After I recovered, I continued coding and earned a certificate in Full Stack Web Development from George Washington University.
 
-I am experienced with the full stack, including Javascript, React, Redux, Node.js, Express, MongoDB, and MYSQL. 
+I am experienced with the full stack, including Javascript, React, Redux, Node.js, Express, MongoDB, MYSQL, Docker and AWS. 
 
 - 🔭 I’m currently studying for the AWS DVA-C01!
 - 💬 Ask me about collaborating on projects!
